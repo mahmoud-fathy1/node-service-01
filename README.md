@@ -31,4 +31,6 @@ It focuses on authentication, data handling, and secure API operations.
 - Sensitive operations are secured and validated.
 - Input sanitization and security best practices are applied.
 
+---
+
 > This project is a technical demonstration only.  
