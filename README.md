@@ -30,7 +30,3 @@ It focuses on authentication, data handling, and secure API operations.
 - Environment variables are used for configuration (`.env` file).
 - Sensitive operations are secured and validated.
 - Input sanitization and security best practices are applied.
-
----
-
-> This project is a technical demonstration only.  
